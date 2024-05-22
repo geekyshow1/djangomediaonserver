@@ -1,0 +1,5 @@
+AWS_S3_ACCESS_KEY_ID ='DO006R49GD8YHF66LPGF'
+AWS_S3_SECRET_ACCESS_KEY='qpjbd0GOe32Fh9hvRzRJBthTJN902OIlTI8p1smS2nk'
+AWS_S3_ENDPOINT_URL = "https://blr1.digitaloceanspaces.com"
+AWS_S3_CUSTOM_DOMAIN = 'demobuck.blr1.cdn.digitaloceanspaces.com'
+AWS_STORAGE_BUCKET_NAME = "demobuck"
